@@ -1,0 +1,58 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_afe5d634"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_2e9089ce"
+  },
+  {
+    "name": "blog-left-sidebar",
+    "path": "/blog-left-sidebar",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog-left-sidebar",
+    "_name": "_25b951ba"
+  },
+  {
+    "name": "blog-right-sidebar",
+    "path": "/blog-right-sidebar",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\blog-right-sidebar.vue",
+    "chunkName": "pages/blog-right-sidebar",
+    "_name": "_202bc8b7"
+  },
+  {
+    "name": "case-details",
+    "path": "/case-details",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\case-details.vue",
+    "chunkName": "pages/case-details",
+    "_name": "_43b41f48"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_48cf708e"
+  },
+  {
+    "name": "service-details",
+    "path": "/service-details",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\service-details.vue",
+    "chunkName": "pages/service-details",
+    "_name": "_b643d67a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\subhe\\\\Desktop\\\\OZ\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_707620aa"
+  }
+]
